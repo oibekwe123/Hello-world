@@ -1,3 +1,2 @@
 # Hello-world
-This is a project info
-
+This is a project information
